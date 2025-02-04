@@ -72,7 +72,7 @@ Getting Started
 
 To begin using our hotel management application, follow these steps:
 
-1. Clone the Repository: https://github.com/Ahmed-Serag19/hotel-management-system.git
+1. Clone the Repository: https://github.com/Sara-ibrahiim/hotel-management-system.git
 
 
 2. Install Dependencies: Run npm install to install the required packages and libraries.
